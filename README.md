@@ -27,15 +27,35 @@
 
 ## 💫 About Me
 
-```ts
+```typescript
 const aadhil = {
+    name: "Aadhil A Kareem",
     location: "Kottayam, Kerala, India 🇮🇳",
     role: "Aspiring Data Engineer",
-    currentFocus: ["Data Engineering", "Cloud Architecture", "ETL Pipelines"],
-    learning: ["Apache Spark", "Airflow", "Advanced Azure"],
-    interests: ["Big Data", "Cloud Computing", "Data Analytics"],
-    askMeAbout: ["Python", "SQL", "Azure", "Power BI"]
+    education: "B.Tech CSE (AI & Data Engineering)",
+    currentFocus: [
+        "Data Engineering",
+        "ETL Pipeline Development",
+        "Cloud Data Architecture"
+    ],
+    currentlyLearning: [
+        "Apache Spark",
+        "Apache Airflow",
+        "Advanced Azure Data Services"
+    ],
+    interests: [
+        "Big Data Processing",
+        "Cloud Computing",
+        "Data Analytics & Visualization"
+    ],
+    tools: [
+        "Python",
+        "SQL",
+        "Azure",
+        "Power BI"
+    ]
 };
+
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
