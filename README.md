@@ -89,9 +89,11 @@
 <br/>
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadhilajas/cardiovascular_risk_prediction)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://heart-ml-seven.vercel.app/)
 
 </td>
 <td width="50%">
+
 
 ### 🔷 Futurense Internship 2025
 <br/>
