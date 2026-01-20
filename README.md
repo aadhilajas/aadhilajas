@@ -27,7 +27,7 @@
 
 ## 💫 About Me
 
-```typescript
+```ts
 const aadhil = {
     location: "Kottayam, Kerala, India 🇮🇳",
     role: "Aspiring Data Engineer",
