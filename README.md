@@ -72,41 +72,77 @@
 <tr>
 <td width="50%">
 
-### 🔷 Olist Data Engineering Pipeline
+### 🔷 Cardiovascular Risk Prediction
 <br/>
 
-**End-to-end data engineering solution using Kaggle's Olist Brazilian E-commerce dataset**
+**Machine learning–based system to predict cardiovascular disease risk using clinical data**
 
-📊 **Features:**
-- Complete ETL pipeline implementation
-- Data modeling & transformation
-- Cloud-based architecture
-- Interactive dashboards
+📊 **Key Highlights:**
+- End-to-end data preprocessing & feature engineering
+- Predictive modeling for cardiovascular risk assessment
+- Model evaluation & performance analysis
+- Real-world healthcare use-case focus
 
-🛠️ **Tech Stack:**
-`Python` `Apache Airflow` `Azure` `SQL` `Power BI`
+🛠️ **Tech Stack:**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadhilajas/olist-data-engineering-pipeline)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-3B82F6?style=for-the-badge&logo=stackshare&logoColor=white)](#)
-[![Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadhilajas/cardiovascular_risk_prediction)
 
 </td>
 <td width="50%">
 
-### 🔷 Coming Soon
+### 🔷 Futurense Internship 2025
 <br/>
 
-**More exciting data engineering projects in development**
+**Data analysis & funnel insights project for MBA (Technology) admissions**
 
-<br/><br/>
+📊 **Key Highlights:**
+- Lead-to-enrollment funnel analysis
+- Campaign & source performance evaluation
+- Conversion metrics & actionable insights
+- Data cleaning, analysis & visualization
+
+🛠️ **Tech Stack:**  
+`Python` `Pandas` `SQL` `Excel` `Power BI`
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadhilajas/Futerense_Internship_2025)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔷 ZOVO Platform (Frontend + Backend)
+<br/>
+
+**Full-stack web application with separated frontend & backend architecture**
+
+📊 **Key Highlights:**
+- Modular frontend & backend separation
+- REST API–based communication
+- Scalable project structure
+- Real-world application workflow
+
+🛠️ **Tech Stack:**  
+`JavaScript` `React` `Node.js` `Express` `MongoDB`
+
+<br/>
+
+[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadhilajas/zovo-frontend)
+[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadhilajas/zovo-backend)
+
+</td>
+<td width="50%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
 
 <br/>
-
-<sub>🚧 Currently building something amazing...</sub>
+<sub>🚀 More data engineering & analytics projects coming soon...</sub>
 
 </td>
 </tr>
@@ -115,6 +151,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 📊 GitHub Statistics
 
